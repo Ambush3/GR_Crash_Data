@@ -1,5 +1,5 @@
 # GR_Crash_Data
-https://mybinder.org/v2/gh/Ambush3/GR_Crash_Data/3acbf7375aca236f2fb51b6298ba5ec3972be1f0?urlpath=lab%2Ftree%2FCrash.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ambush3/GR_Crash_Data/HEAD)
 
 Using the CGR_CRASH_DATA.csv from https://grdata-grandrapids.opendata.arcgis.com/datasets/grandrapids::cgr-crash-data/about   
 I was able to go through and narrow down data from what type of accidents were happening the most, what sex drank and drive more,  
